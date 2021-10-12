@@ -1,0 +1,16 @@
+#list{
+    max-width: 5rem;
+    display: flexbox;
+    list-style:none;
+}
+
+button{
+    display: inline-block;
+    margin: 5px;
+}
+#dispFrame{
+    overflow: scroll;
+    width: 80%;
+    height: 80vh;
+    margin: 10vh;
+}
