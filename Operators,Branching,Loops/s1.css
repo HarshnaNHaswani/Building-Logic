@@ -1,23 +1,18 @@
-
 ul{
     max-width: 5rem;
     display: flexbox;
     list-style:none;
 }
 
-
 button{
     display: inline-block;
     margin: 5px;
 }
 #dispFrame{
-    overflow:auto;
-    width: 60%;
+    overflow: scroll;
+    width: 80%;
     height: 80vh;
-
-    margin: 5% 20%;
-
-
+    margin: 10vh;
 }
 
 a{
@@ -38,4 +33,3 @@ input{
     margin: 1rem;
     display: block;
 }
-
