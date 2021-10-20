@@ -1,3 +1,11 @@
+
+ul{
+    max-width: 5rem;
+    display: flexbox;
+    list-style:none;
+}
+
+
 button{
     display: inline-block;
     margin: 5px;
@@ -6,7 +14,10 @@ button{
     overflow:auto;
     width: 60%;
     height: 80vh;
+
     margin: 5% 20%;
+
+
 }
 
 a{
@@ -20,5 +31,11 @@ a{
     text-align: center;
     width: 50%;
     margin: 5% 25%;
+}
+
+input{
+    padding: 1rem;
+    margin: 1rem;
+    display: block;
 }
 
